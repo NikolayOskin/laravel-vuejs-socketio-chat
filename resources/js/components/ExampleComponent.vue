@@ -3,7 +3,7 @@
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <div class="card card-default">
-                    <div class="card-header">Simple Public Chat ({{users - 1}} online users)</div>
+                    <div class="card-header"><h5>Simple Public Chat <small>({{users - 1}} users online)</small></h5></div>
 
                     <div class="form-group">
                         <div class="form-group p-2">
