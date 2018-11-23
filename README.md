@@ -2,7 +2,7 @@
 Simple Laravel Vue.js Socket.io Chat (+ Redis)
 
 ### Server requirements:
-- LAMP or LEMP stack
+- Linux + Apache/Nginx + Php
 - Node.js
 - Redis
 - Composer
