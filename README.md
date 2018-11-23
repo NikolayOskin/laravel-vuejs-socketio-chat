@@ -8,8 +8,11 @@ Simple Laravel Vue.js Socket.io Chat (+ Redis)
 - Composer
 
 ### How to use:
-1. Clone or download
+1. Clone this repository
 2. Change dir `cd laravel-vuejs-socketio-chat`
 3. Run `composer install`
-4. Run `npm install` (node.js should be installed)
+4. Run `npm install` (Node.js should be installed)
+5. Make sure you use `BROADCAST_DRIVER=redis` in .env file
+6. `node server.js`
+7. `php artisan serve`
 
